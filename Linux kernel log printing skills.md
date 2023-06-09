@@ -69,7 +69,7 @@ done
 
 **sudo make** sometimes ca not make, try add specified destination to resolve this question
 
-![1](Linux kernel log printing skills.assets/1.jpg)
+![1](https://github.com/knightsummon/Linux-Kernel-Printing/blob/main/Linux%20kernel%20log%20printing%20skills.assets/1.jpg)
 
 The command "sudo make -C /usr/src/linux-headers-5.4.0-52-generic M=$(pwd) modules" is a Linux command used to build kernel modules. Let's break down each component:
 
