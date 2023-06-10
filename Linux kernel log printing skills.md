@@ -103,4 +103,16 @@ When I use **rmmod hello.ko** , Microcontroller System responds me that "XX is b
 
 I choose to downgrade the Ubuntu Linux GCC version to 9.3.0 to solve this problem.
 
+How to downgrade, I use https://blog.csdn.net/li1873997/article/details/128789070
+
+After downgrade, I find that the gcc in /usr/bin is named "gcc-9", Makefile can not find the gcc to compile
+
+Use symbolic link to solve the issue.
+
+```
+sudo ln -s gcc-9 gcc
+```
+
+
+
 >>>>>>> 3b45713 (Version 2)
