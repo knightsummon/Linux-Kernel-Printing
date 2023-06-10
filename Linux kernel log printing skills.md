@@ -94,4 +94,13 @@ Found the kernel of Vexpress is mot match the kernel od Linux Ubuntu Server
 ![2](https://github.com/knightsummon/Linux-Kernel-Printing/blob/main/Linux%20kernel%20log%20printing%20skills.assets/2.jpg)
 
 Try to download a Linux kernel 5.4.70 and try to compile it on Ubuntu.
+
+## Question 2 : Compile failure in Vexpress Kernel
+
+When I use **rmmod hello.ko** , Microcontroller System responds me that "XX is busy", It due to the GCC version in Vexpress is no match with Ubuntu Linux GCC
+
+![3](Linux kernel log printing skills.assets/3.jpg)
+
+I choose to downgrade the Ubuntu Linux GCC version to 9.3.0 to solve this problem.
+
 >>>>>>> 3b45713 (Version 2)
