@@ -91,7 +91,7 @@ uname -r
 
 Found the kernel of Vexpress is mot match the kernel od Linux Ubuntu Server
 
-![2](Linux kernel log printing skills.assets/2.jpg)
+![2](https://github.com/knightsummon/Linux-Kernel-Printing/blob/main/Linux%20kernel%20log%20printing%20skills.assets/2.jpg)
 
 Try to download a Linux kernel 5.4.70 and try to compile it on Ubuntu.
 >>>>>>> 3b45713 (Version 2)
