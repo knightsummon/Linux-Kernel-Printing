@@ -113,6 +113,8 @@ Use symbolic link to solve the issue.
 sudo ln -s gcc-9 gcc
 ```
 
+## Result: Problem Solved
 
+![4](Linux kernel log printing skills.assets/4.jpg)
 
 >>>>>>> 3b45713 (Version 2)
