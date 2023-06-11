@@ -115,6 +115,6 @@ sudo ln -s gcc-9 gcc
 
 ## Result: Problem Solved
 
-![4](Linux kernel log printing skills.assets/4.jpg)
+![4](https://github.com/knightsummon/Linux-Kernel-Printing/blob/main/Linux%20kernel%20log%20printing%20skills.assets/4.jpg)
 
 >>>>>>> 3b45713 (Version 2)
