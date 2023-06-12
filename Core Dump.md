@@ -47,4 +47,4 @@
 
  ## Rename the Generated dump Core file 
 
-![1](Core Dump.assets/1.jpg)
+![1](https://github.com/knightsummon/Linux-Kernel-Printing/blob/main/Core%20Dump.assets/1.jpg)
