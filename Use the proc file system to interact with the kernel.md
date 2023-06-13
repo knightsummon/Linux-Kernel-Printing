@@ -76,8 +76,8 @@ umode_t,struct proc_dir_entry *,const struct file_operations
 
 Practical 10
 
-![1](Use the proc file system to interact with the kernel.assets/1.jpg)
+![1](https://github.com/knightsummon/Linux-Kernel-Printing/blob/main/Use%20the%20proc%20file%20system%20to%20interact%20with%20the%20kernel.assets/1.jpg)
 
 Manipulate successful! Create three node to manipulate Kernel
 
-![2](Use the proc file system to interact with the kernel.assets/2.jpg)
+![2](https://github.com/knightsummon/Linux-Kernel-Printing/blob/main/Use%20the%20proc%20file%20system%20to%20interact%20with%20the%20kernel.assets/2.jpg)
